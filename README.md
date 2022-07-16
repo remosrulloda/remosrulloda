@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/gallery/6XKXGtX)
+![MasterHead](https://i.imgur.com/rfFcwOO.png)
 <h1 align="center">Hi 👋, I'm Remo Rulloda</h1>
 <h3 align="center">CS Student</h3>
 
