@@ -1,9 +1,12 @@
+[!MasterHead\(https://imgur.com/a/7g0R0bV)
 <h1 align="center">Hi 👋, I'm Remo Rulloda</h1>
 <h3 align="center">CS Student</h3>
 
+- 🌍  I'm based in Orange County
+
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [remorulloda.com](remorulloda.com)
+- 🖥️ All of my projects are available at [remorulloda.com](remorulloda.com)
 
 - 📫 How to reach me **remosrulloda@gmail.com**
 
