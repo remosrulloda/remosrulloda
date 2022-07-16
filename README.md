@@ -1,4 +1,4 @@
-[!MasterHead\(https://imgur.com/a/7g0R0bV)
+![MasterHead](https://imgur.com/a/7g0R0bV)
 <h1 align="center">Hi 👋, I'm Remo Rulloda</h1>
 <h3 align="center">CS Student</h3>
 
