@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in Orange County
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🖥️ All of my projects are available at [remorulloda.com](remorulloda.com)
 
