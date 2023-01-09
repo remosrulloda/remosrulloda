@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🖥️ All of my projects are available at [https://www.remorulloda.com](remorulloda.com)
+- 🖥️ All of my projects are available at [remorulloda.com](https://www.remorulloda.com/)
 
 - 📫 How to reach me **remosrulloda@gmail.com**
 
